@@ -1,0 +1,15 @@
+{
+    "expo": {
+      "name": "testapp",
+      "icon": "./static/my-test-ico.png",
+      "version": "1.0.1",
+      "slug": "test1",
+      "ios": {
+        "bundleIdentifier": "com.ggggggxxxxxxxx.testapp"
+      },
+      "android": {
+        "package": "com.ggggggxxxxxxxx.testapp"
+      },
+      "sdkVersion": "27.0.0"
+    }
+  }
